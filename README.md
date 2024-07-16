@@ -1,1 +1,1 @@
-# Angular-sledesmadev
+Dummy template
